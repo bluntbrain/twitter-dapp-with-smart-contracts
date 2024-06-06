@@ -2,7 +2,7 @@
 
 [View the Smart Contract on Etherscan](https://sepolia.etherscan.io/address/0x26fd42F1566618616b16b72def09d0940174206c#readContract)
 
-![Video](demo.mp4)
+[![Video](demo.mp4)](https://github.com/bluntbrain/twitter-dapp-with-smart-contracts/assets/34113569/8099c15c-263a-4e82-a4c4-e5b53129a3b0)
 
 This is a decentralized application (DApp) built on the Ethereum blockchain that mimics basic functionalities of Twitter. Users can connect their wallets, post tweets, and like tweets. The smart contract handles the tweet creation and liking functionalities.
 
